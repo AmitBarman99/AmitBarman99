@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Stick+No+Bills&size=30&duration=3000&color=F77900&lines=Hello+%2C+I+am+Amit+Barman;Very+glad+to+see+you">
 
 ## Student at IIEST , Shibpur
-<p>I am currently studing in Indian Institute of Engineering Science and Technology, Shibpur </P>
+<p>I am currently studying in Indian Institute of Engineering Science and Technology, Shibpur </P>
 
 ## About me
 <ul>
@@ -24,9 +24,9 @@ const skills = {
   Web_designing : "Frontend" | ["HTML", "CSS", "Javascript"],
   Programing_language : ["C", "C++", "HTML", "CSS", "Javascript", "fortran"],
   Electronics : ["PCB design", "Circuit design"],
-  Learning : ["Bootstrap", "Javascript", "python","C++", "node.js"],
+  Learning : ["react.js", "Javascript", "python","C++", "node.js"],
   Technologies : {
-      Softwares : ["kiCAD", "easyEDA", "Arduino", "Photoshop", "Illustrator"],
+      Softwares : ["Electric", "kiCAD", "easyEDA", "Arduino", "Photoshop", "Illustrator"],
       Hardwares : ["Arduino Uno", "Arduino nano", "nrf24l01", "joysticks"],
       Systems : ["Windows", "Ubuntu Linux"],
       Extra : "PCB soldering"
@@ -37,12 +37,12 @@ var interests = {
   Organisations : ["DRDO", "ISRO", "HAL"],
   Objects : ["Quadcopter", "Hexacopter", "Fixed wing drone", "fighter aircraft", "space probes"],
   Technologies : {
-      Fields : ["VLSI Technology, "Semiconductor", "PCB design and assembly and fabrication", "IoT", "Robotics"],
+      Fields : ["VLSI Technology", "Semiconductor", "PCB design and assembly and fabrication", "IoT", "Robotics"],
       Softwares : "cadence",
       Hardwares : ["Arduino pro", "Raspberry Pi", "Custom modules"],
       System : "kali Linux"
-  }
-  Programing_languages : ["matlab", "python"]
+  },
+  Programing_languages : ["matlab", "python","verilog"]
 }
       
 ```
@@ -59,6 +59,9 @@ var interests = {
     </a>
     <a href="https://easyeda.com/" target="_blank">
       <img src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" alt="easyeda" width="40" height="40"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Electric_(software)" target="_blank">
+      <img src="https://www.gnu.org/software/electric/electric.jpg" alt="electric VLSI" width="40" height="40"/>
     </a>
     <a href="https://www.arduino.cc/" target="_blank">
       <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" alt="arduino" width="40" height="40"/>
@@ -137,6 +140,7 @@ var interests = {
 ## Special Repository
 
 [![Radio Tunner](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Radio-Tunner&theme=tokyonight)](https://github.com/AmitBarman99/Radio-Tunner/)
+[![Horizon](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Horizon&theme=tokyonight)](https://github.com/AmitBarman99/Hprizon/)
 [![Mini rocket flight controller](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Mini-rocket-flight-controller&theme=tokyonight)](https://github.com/AmitBarman99/Mini-rocket-flight-controller/)
 [![BDHO-Converter](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=BDHO-Converter&theme=tokyonight)](https://github.com/AmitBarman99/BDHO-Converter/)
 
