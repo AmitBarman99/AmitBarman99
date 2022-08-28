@@ -4,6 +4,7 @@
 
 ## Student at IIEST , Shibpur
 <p>I am currently studying in Indian Institute of Engineering Science and Technology, Shibpur </P>
+<p>I am from Dinhata, Coochbehar. </P>
 
 ## About me
 <ul>
@@ -11,8 +12,8 @@
   <li width="70"> 🙍‍♂️ I'm a Engineering student of Electronics and Telecommunication Engineering department </li>
   <li width="70"> 💡 I'm interested in VLSI Technology </li>
   <li width="70"> 💜 I love Programing, Electronics Circuit designing,Sometimes Graphic designing. </li>
-  <li width="70"> 📈 I'm currently learning Backend development, DSA, Advanced Frontend development, Advanced PCB design etc. </li>
-  <li width="70"> ✌️ I'm a frontend developer,PCB designer and graphics designer </li>
+  <li width="70"> 📈 I'm currently learning DSA,MSI IC chip layout designing, Advanced Frontend development, Advanced PCB design etc. </li>
+  <li width="70"> ✌️ I'm a SSI IC layout designer,frontend developer,PCB designer and graphics designer </li>
 </ul>
 
 ## Skills
@@ -26,7 +27,7 @@ const skills = {
   Electronics : ["PCB design", "Circuit design"],
   Learning : ["react.js", "Javascript", "python","C++", "node.js"],
   Technologies : {
-      Softwares : ["Electric", "kiCAD", "easyEDA", "Arduino", "Photoshop", "Illustrator"],
+      Softwares : ["Electric", "LTSpice", "kiCAD", "easyEDA", "Arduino", "Photoshop", "Illustrator"],
       Hardwares : ["Arduino Uno", "Arduino nano", "nrf24l01", "joysticks"],
       Systems : ["Windows", "Ubuntu Linux"],
       Extra : "PCB soldering"
@@ -62,6 +63,9 @@ var interests = {
     </a>
     <a href="https://en.wikipedia.org/wiki/Electric_(software)" target="_blank">
       <img src="https://www.gnu.org/software/electric/electric.jpg" alt="electric VLSI" width="40" height="40"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Electric_(software)" target="_blank">
+       <img src="https://ez.analog.com/cfs-file/__key/communityserver-components-groupavatars/00-00-00-06-51/LTspice_2D00_Icon.png_2D00_320x240.png.png" alt="LTSpice" width="40" height="40"/>
     </a>
     <a href="https://www.arduino.cc/" target="_blank">
       <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" alt="arduino" width="40" height="40"/>
@@ -140,7 +144,7 @@ var interests = {
 ## Special Repository
 
 [![Radio Tunner](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Radio-Tunner&theme=tokyonight)](https://github.com/AmitBarman99/Radio-Tunner/)
-[![Horizon](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Horizon&theme=tokyonight)](https://github.com/AmitBarman99/Hprizon/)
+[![Horizon](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Horizon&theme=tokyonight)](https://github.com/AmitBarman99/Horizon/)
 [![Mini rocket flight controller](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Mini-rocket-flight-controller&theme=tokyonight)](https://github.com/AmitBarman99/Mini-rocket-flight-controller/)
 [![BDHO-Converter](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=BDHO-Converter&theme=tokyonight)](https://github.com/AmitBarman99/BDHO-Converter/)
 
@@ -182,5 +186,5 @@ if(ProjectsAreAwasome){
 
 Credits: [Amit Barman](https://github.com/AmitBarman99/)
 
-Last Edited on: 26/06/2022
+Last Edited on: 28/08/2022
 
