@@ -92,7 +92,7 @@ var interests = {
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
     </a>
     <a href="https://fortran-lang.org/learn/quickstart" target="_blank">
-      <img src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png" alt="fortran" width="40" height="40"/>
+      <img src="https://fortran-lang.org/en/_static/fortran-logo-256x256.png" alt="fortran" width="40" height="40"/>
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" alt="vscode" width="40" height="40"/>
@@ -143,6 +143,7 @@ var interests = {
 
 ## Special Repository
 
+[![BAR2308TT](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=BAR2308TT&theme=tokyonight)](https://github.com/AmitBarman99/BAR2308TT/)
 [![Radio Tunner](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Radio-Tunner&theme=tokyonight)](https://github.com/AmitBarman99/Radio-Tunner/)
 [![Horizon](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Horizon&theme=tokyonight)](https://github.com/AmitBarman99/Horizon/)
 [![Mini rocket flight controller](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Mini-rocket-flight-controller&theme=tokyonight)](https://github.com/AmitBarman99/Mini-rocket-flight-controller/)
