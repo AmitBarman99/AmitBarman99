@@ -135,10 +135,11 @@ var interests = {
 ## Statistical Datas
 
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmitBarman99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="AmitBarman99" bg_color=#808080/>
-     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmitBarman99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
-      alt="adam-pw" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmitBarman99&langs_count=20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="AmitBarman99" bg_color=#808080/>
+     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmitBarman99&show_icons=true&line_height=37&locale=en&bg_color=0d1117&text_color=ffffff"
+      alt="github stats" />
   </p>
+  
 
 
 ## Special Repository
