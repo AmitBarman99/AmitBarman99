@@ -140,7 +140,7 @@ var interests = {
       alt="github stats" />
   </p>
   
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmitBarman99&theme=green_nur)](https://git.io/streak-stats)
 
 ## Special Repository
 
