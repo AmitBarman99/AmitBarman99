@@ -142,6 +142,12 @@ var interests = {
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AmitBarman99&theme=green_nur)](https://git.io/streak-stats)
 
+
+## Badges
+
+[![@amitbarman99's Holopin board](https://holopin.io/api/user/board?user=amitbarman99)](https://holopin.io/@amitbarman99)
+
+
 ## Special Repository
 
 [![BAR2308TT](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=BAR2308TT&theme=tokyonight)](https://github.com/AmitBarman99/BAR2308TT/)
