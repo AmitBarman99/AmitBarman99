@@ -27,7 +27,7 @@ const skills = {
   Electronics : ["PCB design", "Circuit design"],
   Learning : ["react.js", "Javascript", "python","C++", "node.js"],
   Technologies : {
-      Softwares : ["Electric", "LTSpice", "kiCAD", "easyEDA", "Arduino", "Photoshop", "Illustrator"],
+      Softwares : ["Electric", "LTSpice", "kiCAD", "Multisim", "easyEDA", "Arduino", "Photoshop", "Illustrator"],
       Hardwares : ["Arduino Uno", "Arduino nano", "nrf24l01", "joysticks"],
       Systems : ["Windows", "Ubuntu Linux"],
       Extra : "PCB soldering"
@@ -69,6 +69,9 @@ var interests = {
     </a>
     <a href="https://www.arduino.cc/" target="_blank">
       <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" alt="arduino" width="40" height="40"/>
+    </a>
+    <a href="https://www.ni.com/en-in/support/downloads/software-products/download.multisim.html#452133" target="_blank">
+      <img src="https://ni.scene7.com/is/image/ni/Multisim_BG?$ni-icon-pm$" alt="Multisim" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
