@@ -30,7 +30,7 @@ const skills = {
       Softwares : ["Electric", "LTSpice", "kiCAD", "Multisim", "easyEDA", "Arduino", "Photoshop", "Illustrator", "Processing", "Matlab"],
       Hardwares : ["Arduino Uno", "Arduino nano", "nrf24l01", "joysticks", "L298N", "HC-05"],
       Systems : ["Windows", "Ubuntu Linux"],
-      Extra : "PCB soldering"
+      Extras : "PCB soldering"
   }
 }
 
@@ -39,7 +39,7 @@ var interests = {
   Objects : ["Quadcopter", "Hexacopter", "Fixed wing drone", "fighter aircraft", "space probes"],
   Technologies : {
       Fields : ["VLSI", "ULSI", "Semiconductor", "PCB design and assembly and fabrication", "IoT", "Robotics"],
-      Softwares : ["cadence", "Xilinx"]
+      Softwares : ["cadence", "Xilinx"],
       Hardwares : ["Arduino pro", "Raspberry Pi", "Custom modules"],
       System : "kali Linux"
   },
