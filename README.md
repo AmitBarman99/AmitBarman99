@@ -24,11 +24,11 @@
 const skills = {
   Web_designing : "Frontend" | ["HTML", "CSS", "Javascript"],
   Programing_language : ["C", "C++", "HTML", "CSS", "Javascript", "fortran"],
-  Electronics : ["PCB design", "Circuit design"],
-  Learning : ["react.js", "Javascript", "python","C++", "node.js"],
+  Electronics : ["SSI IC design", "PCB design", "Circuit design"],
+  Learning : ["Javascript", "C++", "Matlab"],
   Technologies : {
-      Softwares : ["Electric", "LTSpice", "kiCAD", "Multisim", "easyEDA", "Arduino", "Photoshop", "Illustrator"],
-      Hardwares : ["Arduino Uno", "Arduino nano", "nrf24l01", "joysticks"],
+      Softwares : ["Electric", "LTSpice", "kiCAD", "Multisim", "easyEDA", "Arduino", "Photoshop", "Illustrator", "Processing", "Matlab"],
+      Hardwares : ["Arduino Uno", "Arduino nano", "nrf24l01", "joysticks", "L298N", "HC-05"],
       Systems : ["Windows", "Ubuntu Linux"],
       Extra : "PCB soldering"
   }
@@ -38,12 +38,12 @@ var interests = {
   Organisations : ["DRDO", "ISRO", "HAL"],
   Objects : ["Quadcopter", "Hexacopter", "Fixed wing drone", "fighter aircraft", "space probes"],
   Technologies : {
-      Fields : ["VLSI Technology", "Semiconductor", "PCB design and assembly and fabrication", "IoT", "Robotics"],
-      Softwares : "cadence",
+      Fields : ["VLSI", "ULSI", "Semiconductor", "PCB design and assembly and fabrication", "IoT", "Robotics"],
+      Softwares : ["cadence", "Xilinx"]
       Hardwares : ["Arduino pro", "Raspberry Pi", "Custom modules"],
       System : "kali Linux"
   },
-  Programing_languages : ["matlab", "python","verilog"]
+  Programing_languages : ["matlab", "python", "verilog"]
 }
       
 ```
