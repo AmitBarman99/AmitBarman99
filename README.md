@@ -168,11 +168,12 @@ var interests = {
 
 ## Special Repository
 
-[![BAR2308TT](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=BAR2308TT&theme=tokyonight)](https://github.com/AmitBarman99/BAR2308TT/)
-[![Radio Tunner](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Radio-Tunner&theme=tokyonight)](https://github.com/AmitBarman99/Radio-Tunner/)
-[![Horizon](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Horizon&theme=tokyonight)](https://github.com/AmitBarman99/Horizon/)
-[![Mini rocket flight controller](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Mini-rocket-flight-controller&theme=tokyonight)](https://github.com/AmitBarman99/Mini-rocket-flight-controller/)
-[![BDHO-Converter](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=BDHO-Converter&theme=tokyonight)](https://github.com/AmitBarman99/BDHO-Converter/)
+|  |  |
+| --- | --- |
+| [![BAR2308TT](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=BAR2308TT&theme=tokyonight)](https://github.com/AmitBarman99/BAR2308TT/) | [![Radio Tunner](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Radio-Tunner&theme=tokyonight)](https://github.com/AmitBarman99/Radio-Tunner/) |
+| [![Horizon](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Horizon&theme=tokyonight)](https://github.com/AmitBarman99/Horizon/) | [![Voyager](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Voyager&theme=tokyonight)](https://github.com/AmitBarman99/Voyager/) |
+| [![Mini rocket flight controller](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=Mini-rocket-flight-controller&theme=tokyonight)](https://github.com/AmitBarman99/Mini-rocket-flight-controller/) | [![BDHO-Converter](https://github-readme-stats.vercel.app/api/pin/?username=AmitBarman99&repo=BDHO-Converter&theme=tokyonight)](https://github.com/AmitBarman99/BDHO-Converter/) |
+| | |
 
 ## Some project's links
 
@@ -185,9 +186,11 @@ var interests = {
 
 if(ProjectsAreAwasome){
   printf("Follow me on github");
-  }
-  else
-    continue;
+}
+else{
+  printf("Give a 🌟 to my repository");
+  continue;
+}
     
 ```
 
