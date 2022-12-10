@@ -213,7 +213,8 @@ else{
 
 <!-- ##################################################################################################################### -->
 
-Credits: [Amit Barman](https://github.com/AmitBarman99/)
+Credits: ***[Amit Barman](https://abhisandhi.netlify.app/)***<br>
+**ETC Undergraduate**,**IIESTS**
 
-Last Edited on: 28/08/2022
+Last Edited on: 10/12/2022
 
