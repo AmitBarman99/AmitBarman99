@@ -65,7 +65,7 @@ var interests = {
       <img src="https://www.gnu.org/software/electric/electric.jpg" alt="electric VLSI" width="40" height="40"/>
     </a>
     <a href="https://en.wikipedia.org/wiki/Electric_(software)" target="_blank">
-       <img src="https://ez.analog.com/cfs-file/__key/communityserver-components-groupavatars/00-00-00-06-51/LTspice_2D00_Icon.png_2D00_320x240.png.png" alt="LTSpice" width="40" height="40"/>
+       <img src="https://gitlab.com/uploads/-/system/project/avatar/9699744/ltspice.png?width=64" alt="LTSpice" width="40" height="40"/>
     </a>
     <a href="https://www.arduino.cc/" target="_blank">
       <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" alt="arduino" width="40" height="40"/>
@@ -103,12 +103,18 @@ var interests = {
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
     </a>
-    <a href="https://nodejs.org/en/" target="_blank">
+     <a href="https://processing.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" width="40" height="40"/>
+    </a>
+      <!-- <a href="https://git-scm.com/" target="_blank">
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
+    </a>
+   <a href="https://nodejs.org/en/" target="_blank">
       <img src="https://nodejs.org/static/images/logo.svg" alt="node" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
       <img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" alt="mongodb" width="40" height="40"/>
-    </a>
+    </a> -->
   </p>
   
 <br>
