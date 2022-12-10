@@ -106,10 +106,19 @@ var interests = {
      <a href="https://processing.org/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" width="40" height="40"/>
     </a>
-      <!-- <a href="https://git-scm.com/" target="_blank">
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
+      <a href="https://www.mathworks.com/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
     </a>
-   <a href="https://nodejs.org/en/" target="_blank">
+    <a href="https://www.libreoffice.org/discover/writer/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/LibreOffice_6.1_Writer_Icon.svg" alt="Writer" width="40" height="40"/>
+    </a>
+    <a href="https://www.libreoffice.org/discover/impress/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/LibreOffice_6.1_Impress_Icon.svg" alt="Impress" width="40" height="40"/>
+    </a>
+    <a href="https://www.libreoffice.org/discover/calc/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LibreOffice_6.1_Calc_Icon.svg" alt="Calc" width="40" height="40"/>
+    </a>
+    <!--<a href="https://nodejs.org/en/" target="_blank">
       <img src="https://nodejs.org/static/images/logo.svg" alt="node" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
@@ -125,7 +134,7 @@ var interests = {
     <a href="https://abhisandhi.netlify.app/" target="_blank">
       <img src="https://www.citypng.com/public/uploads/small/11640343793eguepuc2kkhcewec99xq3cnz1z8mwphs2uidww7tvamay9dviijp50me4ory58ulxnxzfceh3yk6babdtlydpacb88xzrobfoy9e.png" alt="Abhisandhi" width="40" height="40"/>
     </a>
-  <a href="https://www.linkedin.com/in/amit-barman-b18154229" target="_blank">
+  <a href="https://www.linkedin.com/in/amitbarman99" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin" width="40" height="40"/>
     </a>
   <a href="https://www.facebook.com/AmitBarman99/" target="_blank">
