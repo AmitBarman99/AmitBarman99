@@ -71,12 +71,12 @@ var interests = {
     <a href="https://www.ni.com/en-in/support/downloads/software-products/download.multisim.html#452133" target="_blank">
       <img src="https://ni.scene7.com/is/image/ni/Multisim_BG?$ni-icon-pm$" alt="Multisim" width="40" height="40"/>
     </a>
-    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
+    <!-- <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+    </a> -->
+    <!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://www.w3schools.com/html/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
     </a>
@@ -143,7 +143,8 @@ var interests = {
     </a>
   <a href="https://t.me/imamitbarman99/" target="_blank">
       <img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" alt="telegram" width="40" height="40"/>
-    </a>  
+    </a> 
+<!-- grabcad link  -->
  </p>
 
 <br>
@@ -174,11 +175,12 @@ var interests = {
 | | |
 
 ## Some project's links
-
+<!-- need to be update this section -->
 [Abhisandhi](https://abhisandhi.netlify.app/) -- my personal website <br>
+[Amit Barman](https://abhisandhi.netlify.app/amitbarman99) -- my Engineering profile <br>
 [Octus Defence](https://octusdefence.netlify.app/) --underdevelopment <br>
 [Radio Tunner](https://radiotunnerindia.netlify.app/) -- live radio at 104.2MHz <br>
-[Sajetaris](https://sajetaris.netlify.app/) -- Electronics projects <br>
+<!-- [Sajetaris](https://sajetaris.netlify.app/) -- Electronics projects <br> -->
 
 ```c
 
@@ -212,7 +214,7 @@ else{
 <!-- ##################################################################################################################### -->
 
 Credits: ***[Amit Barman](https://abhisandhi.netlify.app/)***<br>
-**ETC Undergraduate**,**IIESTS**
+**ETC Undergraduate**, **IIESTS**
 
-Last Edited on: 10/12/2022
+Last Edited on: 29/06/2022
 
