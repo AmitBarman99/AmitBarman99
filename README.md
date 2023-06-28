@@ -8,12 +8,11 @@
 
 ## About me
 <ul>
-  <li width="70"> 👨‍💻 I'm  @AmitBarman99 </li>
-  <li width="70"> 🙍‍♂️ I'm a Engineering student of Electronics and Telecommunication Engineering department </li>
-  <li width="70"> 💡 I'm interested in VLSI Technology </li>
-  <li width="70"> 💜 I love Programing, Electronics Circuit designing,Sometimes Graphic designing. </li>
-  <li width="70"> 📈 I'm currently learning DSA,MSI IC chip layout designing, Advanced Frontend development, Advanced PCB design etc. </li>
-  <li width="70"> ✌️ I'm a SSI IC layout designer,frontend developer,PCB designer and graphics designer </li>
+  <li width="70"> 👨‍💻 I'm  <a href="https://abhisandhi.netlify.app/amitbarman99">@AmitBarman99</a> </li>
+  <li width="70"> 🙍‍♂️ I'm a Engineering student from the Department of Electronics and Telecommunication Engineering </li>
+  <li width="70"> 💡 I'm interested in Cutting-edge Defence and Space technologies , Electronics & VLSI Technology.</li>
+  <li width="70"> 💜 I also love Programing, Electronics Circuit designing , PCB designing, Robotics and Open source.</li>
+  <li width="70"> 📈 I'm currently learning MSI IC chip layout designing, Advanced PCB design ,Verilog, Circuit Simulations etc. </li>
 </ul>
 
 ## Skills
@@ -25,30 +24,29 @@ const skills = {
   Web_designing : "Frontend" | ["HTML", "CSS", "Javascript"],
   Programing_language : ["C", "C++", "HTML", "CSS", "Javascript", "fortran"],
   Electronics : ["SSI IC design", "PCB design", "Circuit design"],
-  Learning : ["Javascript", "C++", "Matlab"],
+  Learning : ["Verilog", "Matlab"],
   Technologies : {
-      Softwares : ["Electric", "LTSpice", "kiCAD", "Multisim", "easyEDA", "Arduino", "Photoshop", "Illustrator", "Processing", "Matlab"],
-      Hardwares : ["Arduino Uno", "Arduino nano", "nrf24l01", "joysticks", "L298N", "HC-05"],
+      Softwares : ["Electric", "LTSpice", "kiCAD", "Multisim", "easyEDA", "Arduino", "Processing", "Matlab"],
+      Hardwares : ["Arduino Uno", "Arduino nano", "nrf24l01", "joysticks", "L298N", "HC-05", "Arduino Mega"],
       Systems : ["Windows", "Ubuntu Linux"],
       Extras : "PCB soldering"
   }
 }
 
 var interests = {
-  Organisations : ["DRDO", "ISRO", "HAL"],
-  Objects : ["Quadcopter", "Hexacopter", "Fixed wing drone", "fighter aircraft", "space probes"],
+  Objects : ["Quadcopter", "Hexacopter", "Fixed wing drone", "fighter aircraft electronic warfare system", "space probes"],
   Technologies : {
       Fields : ["VLSI", "ULSI", "Semiconductor", "PCB design and assembly and fabrication", "IoT", "Robotics"],
       Softwares : ["cadence", "Xilinx"],
       Hardwares : ["Arduino pro", "Raspberry Pi", "Custom modules"],
       System : "kali Linux"
   },
-  Programing_languages : ["matlab", "python", "verilog"]
+  Programing_languages : ["matlab", "python", "System verilog"]
 }
       
 ```
 
-<p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"</p>
+<p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
  
 <br>
   
