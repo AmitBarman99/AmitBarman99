@@ -142,7 +142,7 @@ var interests = {
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/>
     </a>
   <a href="https://t.me/imamitbarman99/" target="_blank">
-      <img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" alt="telegram" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40"/>
     </a> 
 <!-- grabcad link  -->
  </p>
