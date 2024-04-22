@@ -4,7 +4,7 @@
 
 ## Student at IIEST , Shibpur
 <p>I am currently studying in Indian Institute of Engineering Science and Technology, Shibpur </P>
-<p>I am from Dinhata, Coochbehar. </P>
+<p>I am from Coochbehar, West Bengal </P>
 
 ## About me
 <ul>
@@ -53,6 +53,12 @@ var interests = {
 ## Languages and Tools
   
   <p align="left">
+    <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
+      <img src="https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png" alt="Xilinx Vivado" width="40" height="40"/>
+    </a>
+    <a href="http://www.cadence.com/" target="_blank">
+      <img src="https://www.logo.wine/a/logo/Cadence_Design_Systems/Cadence_Design_Systems-Logo.wine.svg" alt="Cadence" width="80" height="40"/>
+    </a>
     <a href="https://www.kicad.org/" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="kicad" width="40" height="40"/>
     </a>
@@ -129,7 +135,7 @@ var interests = {
 ## Connect with me
 
  <p align="left">
-    <a href="https://abhisandhi.netlify.app/" target="_blank">
+    <a href="https://abhisandhi.netlify.app/amitbarman99" target="_blank">
       <img src="https://www.citypng.com/public/uploads/small/11640343793eguepuc2kkhcewec99xq3cnz1z8mwphs2uidww7tvamay9dviijp50me4ory58ulxnxzfceh3yk6babdtlydpacb88xzrobfoy9e.png" alt="Abhisandhi" width="40" height="40"/>
     </a>
   <a href="https://www.linkedin.com/in/amitbarman99" target="_blank">
@@ -140,6 +146,9 @@ var interests = {
     </a>
   <a href="https://twitter.com/imamitbarman99" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/>
+    </a>
+   <a href="https://grabcad.com/amit.barman-2" target="_blank">
+      <img src="https://seekvectorlogo.com/wp-content/uploads/2019/02/grabcad-vector-logo-small.png" alt="Grabcad" width="40" height="40"/>
     </a>
   <a href="https://t.me/imamitbarman99/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40"/>
@@ -206,9 +215,9 @@ else{
 </p>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://camo.githubusercontent.com/1fceebed807adf3625de6c1f6d9ac5ebea7a8a23f8a9d544a0d774443cc8f6b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a70566e433635446d596579524c344c48532f67697068792e676966" alt="Thanks" width="350"/>
-</p>
+</p> -->
 
 
 <!-- ##################################################################################################################### -->
@@ -216,5 +225,5 @@ else{
 Credits: ***[Amit Barman](https://abhisandhi.netlify.app/)***<br>
 **ETC Undergraduate**, **IIESTS**
 
-Last Edited on: 29/06/2022
+Last Edited on: 22/04/2024
 
